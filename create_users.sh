@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # ta in guard.sh där vi kollar root och argument
 source ./guard.sh
